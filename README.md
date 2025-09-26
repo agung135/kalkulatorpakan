@@ -4,8 +4,8 @@
 
 Aplikasi ini berevolusi dari kalkulator sederhana menjadi sebuah platform formulasi pakan lengkap yang mampu memberikan rekomendasi resep termurah berdasarkan target nutrisi.
 
-![Screenshot Aplikasi](link-ke-screenshot-anda.png)
-*Ganti `link-ke-screenshot-anda.png` dengan nama file screenshot aplikasi Anda.*
+![Screenshot Aplikasi](screenshoot.jpeg)
+*Tampilan dashboard.*
 
 ---
 
@@ -72,5 +72,6 @@ Aplikasi ini berevolusi dari kalkulator sederhana menjadi sebuah platform formul
 * `gui_dashboard.py`: Mendefinisikan kelas untuk jendela dasbor analisis.
 
 ---
+
 
 Dibuat dengan ❤️ oleh **Pari**.
