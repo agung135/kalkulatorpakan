@@ -35,8 +35,8 @@ Aplikasi ini berevolusi dari kalkulator sederhana menjadi sebuah platform formul
 
 1.  **Clone Repositori**
     ```bash
-    git clone (link-ke-repo-git-anda)
-    cd (nama-folder-proyek)
+    git clone [(link-ke-repo-git-anda)](https://github.com/agung135/kalkulatorpakan)
+    cd kalkulatorpakan
     ```
 
 2.  **Buat dan Aktifkan Virtual Environment**
@@ -75,3 +75,4 @@ Aplikasi ini berevolusi dari kalkulator sederhana menjadi sebuah platform formul
 
 
 Dibuat dengan ❤️ oleh **Pari**.
+
